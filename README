@@ -3,3 +3,5 @@ EZCPP
 -----
 
 A simple C++ compiler that uses a list of files.
+
+This project has ended development because of Microsoft Windows' command processor not having single-command file globbing.
